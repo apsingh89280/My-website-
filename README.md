@@ -461,3 +461,5 @@ nav.s{background:rgba(5,5,5,.92);backdrop-filter:blur(20px);border-color:rgba(25
   transition:background .3s,border-color .3s,transform .4s var(--out);
 }
 .pc:hover .pc-icon{background:rgba(212,168,67,.12);border-color:var(-
+</body>
+</html>
